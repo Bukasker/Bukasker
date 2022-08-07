@@ -17,9 +17,8 @@ C# / C++ / JS / HTML / CSS
 - 🌱 I’m currently learning C# and Unity from Pluralsight
       link to the course : https://app.pluralsight.com/paths/skill/unity-game-dev-courses-programming 
 
-<div align="center">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bukasker&show_icons=true)  
-</div>
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bukasker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kamil-bukowczan/)  
@@ -27,4 +26,4 @@ C# / C++ / JS / HTML / CSS
 
 
 
-s
+
