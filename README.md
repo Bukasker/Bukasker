@@ -2,7 +2,7 @@
 #### I am a Unity and C# Developer
 [![Profile-Banner.png](https://i.postimg.cc/w38TS1Z1/Profile-Banner.png)](https://postimg.cc/gLsWh2Yp)
 
-<h3>About me</h3>
+<h1>About me</h1>
 I'm Kamil from Poland, I'm a Unity game developer and C # developer since January 2022. I love making game rules and graphics, stories and everything games are.
 
 <h2>Skills</h2>
