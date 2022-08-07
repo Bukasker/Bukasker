@@ -6,7 +6,8 @@
 I'm Kamil from Poland, I'm a Unity game developer and C # developer since January 2022. I love making game rules and graphics, stories and everything games are.
 
 <h2>Skills</h2>
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<CODE>-<C#>-informational?style=flat&logo=<C#>&logoColor=white&color=2bbc8a)
+
 C# / C++ / JS / HTML / CSS
 
 
