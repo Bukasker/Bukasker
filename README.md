@@ -7,7 +7,7 @@ I'm Kamil from Poland, I'm a Unity game developer and C # developer since Januar
 Skills: C# / C++ / JS / HTML / CSS
 
 - 🔭 I’m currently working on my own Game 
-      link to the repo : 
+      link to the repo : https://github.com/Bukasker/The-Iliad-Adventure
 - 🌱 I’m currently learning C# and Unity from Pluralsight
       link to the course : https://app.pluralsight.com/paths/skill/unity-game-dev-courses-programming 
 
