@@ -8,7 +8,7 @@ I'm Kamil from Poland, I'm a Unity game developer and C # developer since Januar
 
 <h2>Skills</h2>
 
-<img src="https://img.shields.io/appveyor/build/Bukasker/Bukasker">
+<img src="[https://img.shields.io/appveyor/build/Bukasker/Bukasker](https://img.shields.io/appveyor/build/Bukasker/Bukasker?color=C%20Sharp&label=CODE&logo=C%20sharp)">
 C# / C++ / JS / HTML / CSS
 
 
