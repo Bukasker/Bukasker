@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Kamil Bukowaczan
 #### I am Unity Game Developer and C# Programmer
-![I am Unity Game Developer and C# Programmer](<img src="https://media-exp1.licdn.com/dms/image/C4D16AQEsoaVQcxoTrQ/profile-displaybackgroundimage-shrink_200_800/0/1659882756898?e=1665619200&v=beta&t=ODqSss8g355ymNbfSssnRy4QOhVvYdieQGLemKkjY7Y" alt="" />)
+![I am Unity Game Developer and C# Programmer](<img src="https://i.postimg.cc/nc3pZQq6/Profile-Banner.png" alt="" />)
 
 I'm Kamil from Poland, I'm a Unity game developer and C # developer since January 2022. I love making game rules and graphics, stories and everything games are.
 
