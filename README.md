@@ -4,7 +4,7 @@
 
 I'm Kamil from Poland, I'm a Unity game developer and C # developer since January 2022. I love making game rules and graphics, stories and everything games are.
 
-[<h2>Skills</h2>]
+<h2>Skills</h2>
 C# / C++ / JS / HTML / CSS
 
 - 🔭 I’m currently working on my own Game 
