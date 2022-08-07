@@ -1,11 +1,20 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-[![Profile-Banner.png](https://i.postimg.cc/nc3pZQq6/Profile-Banner.png)](https://postimg.cc/YhLJz0n3)
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+### Hi there 👋, My name is Kamil
+#### I am a Unity and C# Developer
+[![Profile-Banner.png](https://i.postimg.cc/w38TS1Z1/Profile-Banner.png)](https://postimg.cc/gLsWh2Yp)
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+I'm Kamil from Poland, I'm a Unity game developer and C # developer since January 2022. I love making game rules and graphics, stories and everything games are.
 
-- 🔭 I’m currently working on this page. 
+Skills: C# / C++ / JS / HTML / CSS
+
+- 🔭 I’m currently working on my own Game 
+      link to the repo : 
+- 🌱 I’m currently learning C# and Unity from Pluralsight
+      link to the course : https://app.pluralsight.com/paths/skill/unity-game-dev-courses-programming 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bukasker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kamil-bukowczan/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bukasker&show_icons=true)  
 
 
 
