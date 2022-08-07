@@ -1,4 +1,4 @@
-## Hi there 👋, My name is Kamil <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+\# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Kamil 
 #### I am a Unity and C# Developer
 [![Profile-Banner.png](https://i.postimg.cc/w38TS1Z1/Profile-Banner.png)](https://postimg.cc/gLsWh2Yp)
 
@@ -6,6 +6,7 @@
 I'm Kamil from Poland, I'm a Unity game developer and C # developer since January 2022. I love making game rules and graphics, stories and everything games are.
 
 <h2>Skills</h2>
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 C# / C++ / JS / HTML / CSS
 
 
