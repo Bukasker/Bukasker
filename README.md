@@ -7,6 +7,7 @@
 I'm Kamil from Poland, I'm a Unity game developer and C # developer since January 2022. I love making game rules and graphics, stories and everything games are.
 
 <h2>Skills</h2>
+<img alt="git logo" align="center" src="https://camo.githubusercontent.com/06c6858186510906c21d8c951168d55d976d7dfb9176ed6125c55b8a7de0baae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4749542d4534344333303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" height="25" data-canonical-src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;">
 
 <div dir="auto">
 <img alt="unity logo" src="https://camo.githubusercontent.com/c5348b2ca69dde247e3d291e93a3417f35f5c1bb35cae8ef745ad81075c39112/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f556e6974792d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d756e697479266c6f676f436f6c6f723d7768697465" height="25" data-canonical-src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&amp;logo=unity&amp;logoColor=white" style="max-width: 100%;">
