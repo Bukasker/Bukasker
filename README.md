@@ -23,10 +23,10 @@ I'm Kamil from Poland, I'm a Unity game developer and C # developer since Januar
 
 - 🔭 I’m currently working on my own game --> The-Iliad-Adventure
       
-      link to the repo : https://github.com/Bukasker/The-Iliad-Adventure
+     link to the repo : https://github.com/Bukasker/The-Iliad-Adventure
 - 🌱 I’m currently learning C# and Unity from Pluralsight
       
-      link to the course : https://app.pluralsight.com/paths/skill/unity-game-dev-courses-programming 
+     link to the course : https://app.pluralsight.com/paths/skill/unity-game-dev-courses-programming 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bukasker&show_icons=true)  
 
