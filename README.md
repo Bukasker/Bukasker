@@ -11,10 +11,17 @@ I'm Kamil from Poland, I'm a Unity game developer and C # developer since Januar
       
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,unity,cs" />
+    <img src="https://skillicons.dev/icons?i=git,unity,cs,dotnet" />
   </a>
 </p>
 
+<div dir="auto">
+      
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender,ps" />
+  </a>
+</p>
 
 <div dir="auto">
 <h2>Tools</h2>
